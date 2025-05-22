@@ -79,7 +79,7 @@
             // 
             Column4.HeaderText = "Toptancı";
             Column4.Name = "Column4";
-            Column4.Width = 77;
+            Column4.Width = 78;
             // 
             // Column6
             // 
@@ -121,7 +121,7 @@
             // 
             Column11.HeaderText = "Tarih";
             Column11.Name = "Column11";
-            Column11.Width = 57;
+            Column11.Width = 58;
             // 
             // scanner
             // 
@@ -152,7 +152,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Tan;
-            ClientSize = new Size(1068, 492);
+            ClientSize = new Size(1055, 443);
             Controls.Add(import_excel);
             Controls.Add(scanner);
             Controls.Add(dataGridView1);

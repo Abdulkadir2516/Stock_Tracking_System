@@ -68,7 +68,7 @@ namespace Kasa
 
                 baglan nesne = new baglan();
                 nesne.query_run("Update mfw_gold_stoklar set Stok_Miktarı = Stok_Miktarı+" + dataGridView1.SelectedRows[0].Cells[4].Value + " where Barkod_No = '" + dataGridView1.SelectedRows[0].Cells[2].Value + "' ");
-                nesne.query_run("DELETE FROM gunluk_satıs where Barkod_No = '" + dataGridView1.SelectedRows[0].Cells[2].Value + "' and Adedi = " + dataGridView1.SelectedRows[0].Cells[4].Value + " and Saat = " + dataGridView1.SelectedRows[0].Cells[1].Value  );
+                nesne.query_run("DELETE FROM butun_satıslar where Barkod_No = '" + dataGridView1.SelectedRows[0].Cells[2].Value + "' and Adedi = " + dataGridView1.SelectedRows[0].Cells[4].Value + " and Saat = '" + dataGridView1.SelectedRows[0].Cells[1].Value + "' ");
 
 
                 yenile();

@@ -29,335 +29,335 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Stock_Durumu));
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.find_barcode = new System.Windows.Forms.TextBox();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.find_product = new System.Windows.Forms.TextBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.groupBox7 = new System.Windows.Forms.GroupBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.product_type = new System.Windows.Forms.ComboBox();
-            this.groupBox9 = new System.Windows.Forms.GroupBox();
-            this.supplier = new System.Windows.Forms.ComboBox();
-            this.clear = new System.Windows.Forms.Label();
-            this.filter = new System.Windows.Forms.Label();
-            this.sum = new System.Windows.Forms.Label();
-            this.refresh = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            this.groupBox1.SuspendLayout();
-            this.groupBox3.SuspendLayout();
-            this.groupBox4.SuspendLayout();
-            this.groupBox5.SuspendLayout();
-            this.groupBox6.SuspendLayout();
-            this.groupBox7.SuspendLayout();
-            this.groupBox8.SuspendLayout();
-            this.groupBox9.SuspendLayout();
-            this.SuspendLayout();
+            groupBox2 = new GroupBox();
+            dataGridView2 = new DataGridView();
+            groupBox1 = new GroupBox();
+            find_barcode = new TextBox();
+            groupBox3 = new GroupBox();
+            find_product = new TextBox();
+            groupBox4 = new GroupBox();
+            textBox1 = new TextBox();
+            groupBox5 = new GroupBox();
+            textBox2 = new TextBox();
+            groupBox6 = new GroupBox();
+            textBox3 = new TextBox();
+            groupBox7 = new GroupBox();
+            textBox4 = new TextBox();
+            groupBox8 = new GroupBox();
+            product_type = new ComboBox();
+            groupBox9 = new GroupBox();
+            supplier = new ComboBox();
+            clear = new Label();
+            filter = new Label();
+            sum = new Label();
+            refresh = new Label();
+            label1 = new Label();
+            groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
+            groupBox1.SuspendLayout();
+            groupBox3.SuspendLayout();
+            groupBox4.SuspendLayout();
+            groupBox5.SuspendLayout();
+            groupBox6.SuspendLayout();
+            groupBox7.SuspendLayout();
+            groupBox8.SuspendLayout();
+            groupBox9.SuspendLayout();
+            SuspendLayout();
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.dataGridView2);
-            this.groupBox2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.groupBox2.Location = new System.Drawing.Point(12, 144);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(1354, 491);
-            this.groupBox2.TabIndex = 10;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Stok Tablosu";
+            groupBox2.Controls.Add(dataGridView2);
+            groupBox2.Font = new Font("Segoe UI Semibold", 12F);
+            groupBox2.Location = new Point(12, 144);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(1354, 491);
+            groupBox2.TabIndex = 10;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Stok Tablosu";
             // 
             // dataGridView2
             // 
-            this.dataGridView2.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells;
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(13, 28);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowTemplate.Height = 25;
-            this.dataGridView2.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView2.Size = new System.Drawing.Size(1333, 457);
-            this.dataGridView2.TabIndex = 1;
-            this.dataGridView2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dataGridView2_KeyDown);
+            dataGridView2.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.DisplayedCells;
+            dataGridView2.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView2.Location = new Point(13, 28);
+            dataGridView2.Name = "dataGridView2";
+            dataGridView2.ReadOnly = true;
+            dataGridView2.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            dataGridView2.Size = new Size(1333, 457);
+            dataGridView2.TabIndex = 1;
+            dataGridView2.KeyDown += dataGridView2_KeyDown;
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.find_barcode);
-            this.groupBox1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox1.Location = new System.Drawing.Point(25, 19);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(243, 56);
-            this.groupBox1.TabIndex = 11;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Barkod Ara";
+            groupBox1.Controls.Add(find_barcode);
+            groupBox1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox1.Location = new Point(25, 19);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(243, 56);
+            groupBox1.TabIndex = 11;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Barkod Ara";
             // 
             // find_barcode
             // 
-            this.find_barcode.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.find_barcode.Location = new System.Drawing.Point(6, 21);
-            this.find_barcode.Name = "find_barcode";
-            this.find_barcode.Size = new System.Drawing.Size(231, 29);
-            this.find_barcode.TabIndex = 0;
-            this.find_barcode.TextChanged += new System.EventHandler(this.find_barcode_TextChanged);
-            this.find_barcode.KeyDown += new System.Windows.Forms.KeyEventHandler(this.find_barcode_KeyDown);
+            find_barcode.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            find_barcode.Location = new Point(6, 21);
+            find_barcode.Name = "find_barcode";
+            find_barcode.Size = new Size(231, 29);
+            find_barcode.TabIndex = 0;
+            find_barcode.TextChanged += find_barcode_TextChanged;
+            find_barcode.KeyDown += find_barcode_KeyDown;
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.find_product);
-            this.groupBox3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox3.Location = new System.Drawing.Point(274, 19);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(243, 56);
-            this.groupBox3.TabIndex = 12;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Ürün Ara";
+            groupBox3.Controls.Add(find_product);
+            groupBox3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox3.Location = new Point(274, 19);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(243, 56);
+            groupBox3.TabIndex = 12;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Ürün Ara";
             // 
             // find_product
             // 
-            this.find_product.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.find_product.Location = new System.Drawing.Point(6, 21);
-            this.find_product.Name = "find_product";
-            this.find_product.Size = new System.Drawing.Size(231, 29);
-            this.find_product.TabIndex = 0;
-            this.find_product.TextChanged += new System.EventHandler(this.find_product_TextChanged);
+            find_product.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            find_product.Location = new Point(6, 21);
+            find_product.Name = "find_product";
+            find_product.Size = new Size(231, 29);
+            find_product.TabIndex = 0;
+            find_product.TextChanged += find_product_TextChanged;
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.textBox1);
-            this.groupBox4.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox4.Location = new System.Drawing.Point(25, 81);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(243, 56);
-            this.groupBox4.TabIndex = 12;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Toplam Ürün Adeti";
+            groupBox4.Controls.Add(textBox1);
+            groupBox4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox4.Location = new Point(25, 81);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Size = new Size(243, 56);
+            groupBox4.TabIndex = 12;
+            groupBox4.TabStop = false;
+            groupBox4.Text = "Toplam Ürün Adeti";
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(6, 21);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(231, 29);
-            this.textBox1.TabIndex = 0;
+            textBox1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            textBox1.Location = new Point(6, 21);
+            textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
+            textBox1.Size = new Size(231, 29);
+            textBox1.TabIndex = 0;
             // 
             // groupBox5
             // 
-            this.groupBox5.Controls.Add(this.textBox2);
-            this.groupBox5.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox5.Location = new System.Drawing.Point(274, 81);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(243, 56);
-            this.groupBox5.TabIndex = 13;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Toplam Alış Fiyatı";
+            groupBox5.Controls.Add(textBox2);
+            groupBox5.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox5.Location = new Point(274, 81);
+            groupBox5.Name = "groupBox5";
+            groupBox5.Size = new Size(243, 56);
+            groupBox5.TabIndex = 13;
+            groupBox5.TabStop = false;
+            groupBox5.Text = "Toplam Alış Fiyatı";
             // 
             // textBox2
             // 
-            this.textBox2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox2.Location = new System.Drawing.Point(6, 21);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(231, 29);
-            this.textBox2.TabIndex = 0;
+            textBox2.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            textBox2.Location = new Point(6, 21);
+            textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
+            textBox2.Size = new Size(231, 29);
+            textBox2.TabIndex = 0;
             // 
             // groupBox6
             // 
-            this.groupBox6.Controls.Add(this.textBox3);
-            this.groupBox6.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox6.Location = new System.Drawing.Point(523, 82);
-            this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Size = new System.Drawing.Size(243, 56);
-            this.groupBox6.TabIndex = 14;
-            this.groupBox6.TabStop = false;
-            this.groupBox6.Text = "Toplam Satış Fiyatı";
+            groupBox6.Controls.Add(textBox3);
+            groupBox6.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox6.Location = new Point(523, 82);
+            groupBox6.Name = "groupBox6";
+            groupBox6.Size = new Size(243, 56);
+            groupBox6.TabIndex = 14;
+            groupBox6.TabStop = false;
+            groupBox6.Text = "Toplam Satış Fiyatı";
             // 
             // textBox3
             // 
-            this.textBox3.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox3.Location = new System.Drawing.Point(6, 21);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(231, 29);
-            this.textBox3.TabIndex = 0;
+            textBox3.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            textBox3.Location = new Point(6, 21);
+            textBox3.Name = "textBox3";
+            textBox3.ReadOnly = true;
+            textBox3.Size = new Size(231, 29);
+            textBox3.TabIndex = 0;
             // 
             // groupBox7
             // 
-            this.groupBox7.Controls.Add(this.textBox4);
-            this.groupBox7.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox7.Location = new System.Drawing.Point(772, 82);
-            this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Size = new System.Drawing.Size(243, 56);
-            this.groupBox7.TabIndex = 15;
-            this.groupBox7.TabStop = false;
-            this.groupBox7.Text = "Toplam Kâr";
+            groupBox7.Controls.Add(textBox4);
+            groupBox7.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox7.Location = new Point(772, 82);
+            groupBox7.Name = "groupBox7";
+            groupBox7.Size = new Size(243, 56);
+            groupBox7.TabIndex = 15;
+            groupBox7.TabStop = false;
+            groupBox7.Text = "Toplam Kâr";
             // 
             // textBox4
             // 
-            this.textBox4.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox4.Location = new System.Drawing.Point(6, 21);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(231, 29);
-            this.textBox4.TabIndex = 0;
+            textBox4.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            textBox4.Location = new Point(6, 21);
+            textBox4.Name = "textBox4";
+            textBox4.ReadOnly = true;
+            textBox4.Size = new Size(231, 29);
+            textBox4.TabIndex = 0;
             // 
             // groupBox8
             // 
-            this.groupBox8.Controls.Add(this.product_type);
-            this.groupBox8.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox8.Location = new System.Drawing.Point(523, 20);
-            this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Size = new System.Drawing.Size(243, 56);
-            this.groupBox8.TabIndex = 13;
-            this.groupBox8.TabStop = false;
-            this.groupBox8.Text = "Ürün Cinsi";
+            groupBox8.Controls.Add(product_type);
+            groupBox8.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox8.Location = new Point(523, 20);
+            groupBox8.Name = "groupBox8";
+            groupBox8.Size = new Size(243, 56);
+            groupBox8.TabIndex = 13;
+            groupBox8.TabStop = false;
+            groupBox8.Text = "Ürün Cinsi";
             // 
             // product_type
             // 
-            this.product_type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.product_type.FormattingEnabled = true;
-            this.product_type.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.product_type.Location = new System.Drawing.Point(6, 20);
-            this.product_type.Name = "product_type";
-            this.product_type.Size = new System.Drawing.Size(231, 29);
-            this.product_type.Sorted = true;
-            this.product_type.TabIndex = 0;
-            this.product_type.SelectedIndexChanged += new System.EventHandler(this.product_type_SelectedIndexChanged);
+            product_type.DropDownStyle = ComboBoxStyle.DropDownList;
+            product_type.FormattingEnabled = true;
+            product_type.ImeMode = ImeMode.NoControl;
+            product_type.Location = new Point(6, 20);
+            product_type.Name = "product_type";
+            product_type.Size = new Size(231, 29);
+            product_type.Sorted = true;
+            product_type.TabIndex = 0;
+            product_type.SelectedIndexChanged += product_type_SelectedIndexChanged;
             // 
             // groupBox9
             // 
-            this.groupBox9.Controls.Add(this.supplier);
-            this.groupBox9.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.groupBox9.Location = new System.Drawing.Point(772, 20);
-            this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Size = new System.Drawing.Size(243, 56);
-            this.groupBox9.TabIndex = 14;
-            this.groupBox9.TabStop = false;
-            this.groupBox9.Text = "Tedarikçi";
+            groupBox9.Controls.Add(supplier);
+            groupBox9.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            groupBox9.Location = new Point(772, 20);
+            groupBox9.Name = "groupBox9";
+            groupBox9.Size = new Size(243, 56);
+            groupBox9.TabIndex = 14;
+            groupBox9.TabStop = false;
+            groupBox9.Text = "Tedarikçi";
             // 
             // supplier
             // 
-            this.supplier.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.supplier.FormattingEnabled = true;
-            this.supplier.Location = new System.Drawing.Point(6, 20);
-            this.supplier.Name = "supplier";
-            this.supplier.Size = new System.Drawing.Size(231, 29);
-            this.supplier.TabIndex = 0;
-            this.supplier.SelectedIndexChanged += new System.EventHandler(this.supplier_SelectedIndexChanged);
+            supplier.DropDownStyle = ComboBoxStyle.DropDownList;
+            supplier.FormattingEnabled = true;
+            supplier.Location = new Point(6, 20);
+            supplier.Name = "supplier";
+            supplier.Size = new Size(231, 29);
+            supplier.TabIndex = 0;
+            supplier.SelectedIndexChanged += supplier_SelectedIndexChanged;
             // 
             // clear
             // 
-            this.clear.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.clear.Image = ((System.Drawing.Image)(resources.GetObject("clear.Image")));
-            this.clear.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.clear.Location = new System.Drawing.Point(1020, 33);
-            this.clear.Name = "clear";
-            this.clear.Size = new System.Drawing.Size(104, 37);
-            this.clear.TabIndex = 16;
-            this.clear.Text = "Temizle";
-            this.clear.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.clear.Click += new System.EventHandler(this.clear_Click);
+            clear.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            clear.Image = (Image)resources.GetObject("clear.Image");
+            clear.ImageAlign = ContentAlignment.MiddleLeft;
+            clear.Location = new Point(1020, 33);
+            clear.Name = "clear";
+            clear.Size = new Size(104, 37);
+            clear.TabIndex = 16;
+            clear.Text = "Temizle";
+            clear.TextAlign = ContentAlignment.MiddleRight;
+            clear.Click += clear_Click;
             // 
             // filter
             // 
-            this.filter.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.filter.Image = ((System.Drawing.Image)(resources.GetObject("filter.Image")));
-            this.filter.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.filter.Location = new System.Drawing.Point(1130, 35);
-            this.filter.Name = "filter";
-            this.filter.Size = new System.Drawing.Size(104, 37);
-            this.filter.TabIndex = 17;
-            this.filter.Text = "Filtrele";
-            this.filter.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.filter.Click += new System.EventHandler(this.filter_Click);
+            filter.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            filter.Image = (Image)resources.GetObject("filter.Image");
+            filter.ImageAlign = ContentAlignment.MiddleLeft;
+            filter.Location = new Point(1130, 35);
+            filter.Name = "filter";
+            filter.Size = new Size(104, 37);
+            filter.TabIndex = 17;
+            filter.Text = "Filtrele";
+            filter.TextAlign = ContentAlignment.MiddleRight;
+            filter.Click += filter_Click;
             // 
             // sum
             // 
-            this.sum.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.sum.Image = ((System.Drawing.Image)(resources.GetObject("sum.Image")));
-            this.sum.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.sum.Location = new System.Drawing.Point(1020, 95);
-            this.sum.Name = "sum";
-            this.sum.Size = new System.Drawing.Size(104, 37);
-            this.sum.TabIndex = 18;
-            this.sum.Text = "Topla";
-            this.sum.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.sum.Click += new System.EventHandler(this.sum_Click);
+            sum.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            sum.Image = (Image)resources.GetObject("sum.Image");
+            sum.ImageAlign = ContentAlignment.MiddleLeft;
+            sum.Location = new Point(1020, 95);
+            sum.Name = "sum";
+            sum.Size = new Size(104, 37);
+            sum.TabIndex = 18;
+            sum.Text = "Topla";
+            sum.TextAlign = ContentAlignment.MiddleRight;
+            sum.Click += sum_Click;
             // 
             // refresh
             // 
-            this.refresh.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.refresh.Image = ((System.Drawing.Image)(resources.GetObject("refresh.Image")));
-            this.refresh.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.refresh.Location = new System.Drawing.Point(1130, 94);
-            this.refresh.Name = "refresh";
-            this.refresh.Size = new System.Drawing.Size(104, 37);
-            this.refresh.TabIndex = 19;
-            this.refresh.Text = "Yenile";
-            this.refresh.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.refresh.Click += new System.EventHandler(this.refresh_Click);
+            refresh.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            refresh.Image = (Image)resources.GetObject("refresh.Image");
+            refresh.ImageAlign = ContentAlignment.MiddleLeft;
+            refresh.Location = new Point(1130, 94);
+            refresh.Name = "refresh";
+            refresh.Size = new Size(104, 37);
+            refresh.TabIndex = 19;
+            refresh.Text = "Yenile";
+            refresh.TextAlign = ContentAlignment.MiddleRight;
+            refresh.Click += refresh_Click;
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label1.Location = new System.Drawing.Point(1240, 35);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(109, 96);
-            this.label1.TabIndex = 20;
-            this.label1.Text = "Excel\'e Aktar";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold);
+            label1.ImageAlign = ContentAlignment.MiddleLeft;
+            label1.Location = new Point(1240, 35);
+            label1.Name = "label1";
+            label1.Size = new Size(109, 96);
+            label1.TabIndex = 20;
+            label1.Text = "Excel'e Aktar";
+            label1.TextAlign = ContentAlignment.MiddleCenter;
+            label1.Click += label1_Click;
             // 
             // Stock_Durumu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.MediumTurquoise;
-            this.ClientSize = new System.Drawing.Size(1370, 681);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.refresh);
-            this.Controls.Add(this.sum);
-            this.Controls.Add(this.filter);
-            this.Controls.Add(this.clear);
-            this.Controls.Add(this.groupBox9);
-            this.Controls.Add(this.groupBox8);
-            this.Controls.Add(this.groupBox7);
-            this.Controls.Add(this.groupBox6);
-            this.Controls.Add(this.groupBox5);
-            this.Controls.Add(this.groupBox4);
-            this.Controls.Add(this.groupBox3);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.groupBox2);
-            this.Name = "Stock_Durumu";
-            this.Text = "Stock_Durumu";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
-            this.Load += new System.EventHandler(this.Stock_Durumu_Load);
-            this.Shown += new System.EventHandler(this.Stock_Durumu_Shown);
-            this.groupBox2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox5.PerformLayout();
-            this.groupBox6.ResumeLayout(false);
-            this.groupBox6.PerformLayout();
-            this.groupBox7.ResumeLayout(false);
-            this.groupBox7.PerformLayout();
-            this.groupBox8.ResumeLayout(false);
-            this.groupBox9.ResumeLayout(false);
-            this.ResumeLayout(false);
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.MediumTurquoise;
+            ClientSize = new Size(1370, 681);
+            Controls.Add(label1);
+            Controls.Add(refresh);
+            Controls.Add(sum);
+            Controls.Add(filter);
+            Controls.Add(clear);
+            Controls.Add(groupBox9);
+            Controls.Add(groupBox8);
+            Controls.Add(groupBox7);
+            Controls.Add(groupBox6);
+            Controls.Add(groupBox5);
+            Controls.Add(groupBox4);
+            Controls.Add(groupBox3);
+            Controls.Add(groupBox1);
+            Controls.Add(groupBox2);
+            Name = "Stock_Durumu";
+            Text = "Stock_Durumu";
+            WindowState = FormWindowState.Maximized;
+            Load += Stock_Durumu_Load;
+            Shown += Stock_Durumu_Shown;
+            groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dataGridView2).EndInit();
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            groupBox3.ResumeLayout(false);
+            groupBox3.PerformLayout();
+            groupBox4.ResumeLayout(false);
+            groupBox4.PerformLayout();
+            groupBox5.ResumeLayout(false);
+            groupBox5.PerformLayout();
+            groupBox6.ResumeLayout(false);
+            groupBox6.PerformLayout();
+            groupBox7.ResumeLayout(false);
+            groupBox7.PerformLayout();
+            groupBox8.ResumeLayout(false);
+            groupBox9.ResumeLayout(false);
+            ResumeLayout(false);
 
         }
 

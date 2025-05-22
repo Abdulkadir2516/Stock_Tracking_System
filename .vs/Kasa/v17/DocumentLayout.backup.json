@@ -1,52 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\",
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdul\\AppData\\Local\\SourceServer\\994c91b116b0ea66b91cc0e166754440b7625d9858050eb1b4ee74828c99dda6\\Kasa\\Sales_Cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\source\\repos\\abdulkadir2516\\stock_tracking_system\\kasa\\sales_cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\stock_tracking_system\\kasa\\sales_cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\sales_cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\kasa\\sales_cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\kasa\\sales_cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\sales_cancellation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\source\\repos\\abdulkadir2516\\stock_tracking_system\\kasa\\baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\stock_tracking_system\\kasa\\baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\baglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\source\\repos\\abdulkadir2516\\stock_tracking_system\\kasa\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\stock_tracking_system\\kasa\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\kasa\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\kasa\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\source\\repos\\abdulkadir2516\\stock_tracking_system\\kasa\\home_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\stock_tracking_system\\kasa\\home_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\home_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\kasa\\multiple_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\kasa\\multiple_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\multiple_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\source\\repos\\abdulkadir2516\\stock_tracking_system\\kasa\\multiple_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\stock_tracking_system\\kasa\\multiple_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\multiple_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\kasa\\stock_durumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\kasa\\stock_durumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\stock_durumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\kasa\\add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\kasa\\add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\source\\repos\\abdulkadir2516\\stock_tracking_system\\kasa\\add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\stock_tracking_system\\kasa\\add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5397DD9E-AD8F-4639-9702-F6730F5C8660}|Kasa\\Kasa.csproj|solutionrelative:kasa\\add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Sales_Cancellation.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs",
               "RelativeDocumentMoniker": "Kasa\\Sales_Cancellation.cs",
-              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs",
               "RelativeToolTip": "Kasa\\Sales_Cancellation.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAhwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Multiple_Add_Product.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs",
               "RelativeDocumentMoniker": "Kasa\\Multiple_Add_Product.cs",
-              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs",
               "RelativeToolTip": "Kasa\\Multiple_Add_Product.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAAA6wIEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Add_Product.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Add_Product.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Add_Product.cs",
               "RelativeDocumentMoniker": "Kasa\\Add_Product.cs",
-              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Add_Product.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Add_Product.cs",
               "RelativeToolTip": "Kasa\\Add_Product.cs",
               "ViewState": "AgIAADMAAAAAAAAAAIBJwEMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,9 +115,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "baglan.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\baglan.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\baglan.cs",
               "RelativeDocumentMoniker": "Kasa\\baglan.cs",
-              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\baglan.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\baglan.cs",
               "RelativeToolTip": "Kasa\\baglan.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAADgv2QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Home_Screen.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
               "RelativeDocumentMoniker": "Kasa\\Home_Screen.cs",
-              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
               "RelativeToolTip": "Kasa\\Home_Screen.cs",
               "ViewState": "AgIAACwCAAAAAAAAAAAUwEcCAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,9 +140,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Home_Screen.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Home_Screen.Designer.cs",
               "RelativeDocumentMoniker": "Kasa\\Home_Screen.Designer.cs",
-              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.Designer.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Home_Screen.Designer.cs",
               "RelativeToolTip": "Kasa\\Home_Screen.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,22 +156,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Sales_Cancellation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs",
               "RelativeDocumentMoniker": "Kasa\\Sales_Cancellation.cs",
               "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs [Design]",
-              "RelativeToolTip": "Kasa\\Sales_Cancellation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Sales_Cancellation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T23:22:05.058Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-20T23:22:05.058Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Multiple_Add_Product.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs",
               "RelativeDocumentMoniker": "Kasa\\Multiple_Add_Product.cs",
               "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Kasa\\Multiple_Add_Product.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Multiple_Add_Product.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T17:20:42.04Z"
             },
@@ -179,10 +178,10 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Stock_Durumu.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Stock_Durumu.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Stock_Durumu.cs",
               "RelativeDocumentMoniker": "Kasa\\Stock_Durumu.cs",
               "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Stock_Durumu.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Kasa\\Stock_Durumu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Stock_Durumu.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T18:04:01.796Z"
             },
@@ -190,10 +189,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Home_Screen.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
               "RelativeDocumentMoniker": "Kasa\\Home_Screen.cs",
               "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Kasa\\Home_Screen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Home_Screen.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T19:03:35.13Z"
             },
@@ -201,10 +200,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Add_Product.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Add_Product.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\Stock_Tracking_System\\Kasa\\Add_Product.cs",
               "RelativeDocumentMoniker": "Kasa\\Add_Product.cs",
               "ToolTip": "C:\\Users\\abdul\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Add_Product.cs [Tasar\u0131m]",
-              "RelativeToolTip": "Kasa\\Add_Product.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Abdulkadir2516\\Stock_Tracking_System\\Kasa\\Add_Product.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T19:07:15.763Z"
             }

@@ -178,7 +178,7 @@ namespace Kasa
                         komut.Parameters.AddWithValue("@id", satislar.Name.ToString());
                         komut.Parameters.AddWithValue("@Tarih", Convert.ToDateTime(DateTime.Now.ToShortDateString()).ToString("yyyy-MM-dd"));
                         komut.Parameters.AddWithValue("@Saat", Convert.ToDateTime(DateTime.Now.ToLongTimeString()).ToString("HH:mm:ss"));
-                        komut.Parameters.AddWithValue("@Barkod_No", barkod);
+                        komut.Parameters.AddWithValue("@Barkod_No", barkod.ToUpper());
                         komut.Parameters.AddWithValue("@Ürün_Adý", icerik[1].ToString());
                         komut.Parameters.AddWithValue("@Adedi", adet);
                         komut.Parameters.AddWithValue("@Birimi", icerik[2].ToString());
