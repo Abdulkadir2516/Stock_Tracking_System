@@ -559,7 +559,7 @@ namespace Kasa
 
 
             baglan.query_run("update anlýk_satýs set Satis_Fiyati = '" + sayi + "', Tutar = Adet * Satis_Fiyati " +
-                "Where ýd = '" + satislar.Name.ToString() + "' and barkod ='" + satislar.SelectedRows[0].Cells[2].Value + "' and adet = '" + satislar.SelectedRows[0].Cells[4].Value + "' limit 1 ");
+                "Where ýd = '" + satislar.Name.ToString() + "' and barkod ='" + satislar.SelectedRows[0].Cells[2].Value + "' and saat = '" + satislar.SelectedRows[0].Cells[1].Value + "' and adet = '" + satislar.SelectedRows[0].Cells[4].Value + "' limit 1 ");
 
 
             satislar.DataSource = baglan.fill_table("Select Tarih, Saat, Barkod, Ürün_adý as Ürün_Adý , Adet, Birim, Satis_Fiyati as Birim_Fiyatý, Tutar FROM anlýk_satýs WHERE ýd = '" + satislar.Name.ToString() + "' order by saat desc", "anlýk_satýs");
@@ -633,7 +633,7 @@ namespace Kasa
             sayi = sayi.Replace(",", ".");
 
             baglan.query_run("update anlýk_satýs set Satis_Fiyati = Satis_Fiyati - (Satis_Fiyati * '" + Convert.ToInt32(sayi) + "' )/100, Tutar = Adet * Satis_Fiyati " +
-                "Where ýd = '" + satislar.Name.ToString() + "' and barkod ='" + satislar.SelectedRows[0].Cells[2].Value + "' and adet = '" + satislar.SelectedRows[0].Cells[4].Value + "' limit 1 ");
+                "Where ýd = '" + satislar.Name.ToString() + "' and barkod ='" + satislar.SelectedRows[0].Cells[2].Value + "' and saat = '" + satislar.SelectedRows[0].Cells[1].Value + "' and adet = '" + satislar.SelectedRows[0].Cells[4].Value + "' limit 1 ");
 
 
             satislar.DataSource = baglan.fill_table("Select Tarih, Saat, Barkod, Ürün_adý as Ürün_Adý , Adet, Birim, Satis_Fiyati as Birim_Fiyatý, Tutar FROM anlýk_satýs WHERE ýd = '" + satislar.Name.ToString() + "' order by saat desc", "anlýk_satýs");
@@ -703,7 +703,6 @@ namespace Kasa
             {
                 sil2();
                 e.Handled = true;
-
 
             }
 

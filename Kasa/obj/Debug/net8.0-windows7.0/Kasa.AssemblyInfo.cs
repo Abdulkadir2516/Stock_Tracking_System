@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kasa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c889df5120c2fe3d1de6bf839b249a9e89a538")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f63836a6e11bcb544e6263c3e5afbff848dc63")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kasa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kasa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

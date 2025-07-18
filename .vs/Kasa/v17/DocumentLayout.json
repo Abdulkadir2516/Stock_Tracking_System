@@ -32,9 +32,10 @@
               "RelativeDocumentMoniker": "Kasa\\Home_Screen.Designer.cs",
               "ToolTip": "C:\\Users\\yesil\\Desktop\\\u00C7al\u0131\u015Fmalar\\Stock_Tracking_System\\Kasa\\Home_Screen.Designer.cs",
               "RelativeToolTip": "Kasa\\Home_Screen.Designer.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T21:42:24.595Z"
+              "WhenOpened": "2025-07-18T21:42:24.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "Kasa\\Home_Screen.cs",
               "ToolTip": "C:\\Users\\yesil\\Desktop\\\u00C7al\u0131\u015Fmalar\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
               "RelativeToolTip": "Kasa\\Home_Screen.cs",
-              "ViewState": "AgIAAIICAAAAAAAAAAAmwJACAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAACYCAAAAAAAAAAAcwDECAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T15:09:05.862Z",
               "EditorCaption": ""
@@ -55,10 +56,11 @@
               "Title": "Home_Screen.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\yesil\\Desktop\\\u00C7al\u0131\u015Fmalar\\Stock_Tracking_System\\Kasa\\Home_Screen.cs",
               "RelativeDocumentMoniker": "Kasa\\Home_Screen.cs",
-              "ToolTip": "C:\\Users\\yesil\\Desktop\\Stock_Tracking_System\\Stock_Tracking_System\\Kasa\\Home_Screen.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\Stock_Tracking_System\\Stock_Tracking_System\\Kasa\\Home_Screen.cs [Tasar\u0131m]",
+              "ToolTip": "C:\\Users\\yesil\\Desktop\\\u00C7al\u0131\u015Fmalar\\Stock_Tracking_System\\Kasa\\Home_Screen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kasa\\Home_Screen.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T19:03:35.13Z"
+              "WhenOpened": "2024-07-22T19:03:35.13Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }
